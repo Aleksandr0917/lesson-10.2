@@ -1,5 +1,5 @@
 def print_params(a = 1, b = 'строка', c = True):
- print(a, b, c)
+    print(a, b, c)
 print_params()
 print_params(1, 25, True)
 print_params(1, 'строка', [1,2,3])
